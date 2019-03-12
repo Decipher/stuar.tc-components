@@ -1,13 +1,13 @@
 {
-  "name": "vue-design-system",
-  "version": "3.5.7",
-  "description": "Vue Design System is an open-source tool for building Design Systems with Vue.js",
-  "author": "viljamis <me@viljamis.com>",
+  "name": "stuartc_components",
+  "version": "0.1.0",
+  "description": "Vue Design System for https://stuar.tc.",
+  "author": "Stuart Clark <stu@rtclark.net>",
   "main": "dist/system/system.js",
   "files": [
     "dist/system"
   ],
-  "homepage": "https://vueds.com",
+  "homepage": "https://stuar.tc",
   "private": true,
   "license": "MIT",
   "scripts": {
@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/viljamis/vue-design-system.git"
+    "url": "git+https://github.com/Decipher/stuar.tc-components.git"
   },
   "keywords": [
     "vue design system",
